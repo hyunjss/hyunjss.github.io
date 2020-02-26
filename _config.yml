@@ -5,9 +5,9 @@ description: 주니어 개발자의 개발 기록 블로그
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: AHYUN
+username: 0
 user_description: JPA, JAVA, angular
-user_title: Developer
+user_title: 0
 email: dkgus66@gmail.com
 # twitter_username: lorem_ipsum
 # github_username:  lorem_ipsum
